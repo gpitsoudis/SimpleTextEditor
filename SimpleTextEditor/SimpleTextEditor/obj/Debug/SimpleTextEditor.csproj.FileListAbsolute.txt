@@ -1,0 +1,6 @@
+F:\Documents\Visual Studio 2019\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+F:\Documents\Visual Studio 2019\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+F:\Documents\Visual Studio 2019\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+F:\Documents\Visual Studio 2019\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojAssemblyReference.cache
+F:\Documents\Visual Studio 2019\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+F:\Documents\Visual Studio 2019\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
